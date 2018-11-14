@@ -4,7 +4,7 @@ Git commands
 
 - [ ]  git add 
 - [ ] git commit
-- [ ] git push    or git push —upstream-set issue/lego-2730
+- [ ] git push    or git push —upstream-set issue/legodi-2730
 
 - [ ] gcm
 - [ ] gf
@@ -62,5 +62,5 @@ gp -f --no-verify
 
 
 copy one branch to another
-git checkout -b feature/lego-8092-integrate-2
-git push origin feature/lego-8092-integrate-2
+git checkout -b feature/legodi-8092-integrate-2
+git push origin feature/legodi-8092-integrate-2
